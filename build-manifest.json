@@ -1,0 +1,122 @@
+{
+  "timestamp": "2026-07-17T18:48:47.490Z",
+  "buildDuration": 239,
+  "javascript": {
+    "files": [
+      {
+        "path": "/Users/ybenammou/GitHub/ob-website-26-dev/dist/app.js",
+        "size": 119218,
+        "type": "text/javascript;charset=utf-8"
+      },
+      {
+        "path": "/Users/ybenammou/GitHub/ob-website-26-dev/dist/chunk-e8j946eh.js",
+        "size": 1309,
+        "type": "text/javascript;charset=utf-8"
+      },
+      {
+        "path": "/Users/ybenammou/GitHub/ob-website-26-dev/dist/chunk-47g1sjnh.js",
+        "size": 1010,
+        "type": "text/javascript;charset=utf-8"
+      },
+      {
+        "path": "/Users/ybenammou/GitHub/ob-website-26-dev/dist/chunk-wppfzjey.js",
+        "size": 131545,
+        "type": "text/javascript;charset=utf-8"
+      },
+      {
+        "path": "/Users/ybenammou/GitHub/ob-website-26-dev/dist/chunk-rk97164d.js",
+        "size": 0,
+        "type": "text/javascript;charset=utf-8"
+      },
+      {
+        "path": "/Users/ybenammou/GitHub/ob-website-26-dev/dist/chunk-b4rvqsce.js",
+        "size": 0,
+        "type": "text/javascript;charset=utf-8"
+      }
+    ]
+  },
+  "css": {
+    "files": [
+      {
+        "path": "/Users/ybenammou/GitHub/ob-website-26-dev/dist/main.css",
+        "size": 103192,
+        "type": "text/css;charset=utf-8"
+      }
+    ]
+  },
+  "public": {
+    "files": [
+      {
+        "path": ".DS_Store",
+        "size": 6148,
+        "type": "DS_Store",
+        "lastModified": "2026-07-17T18:48:06.943Z"
+      }
+    ]
+  },
+  "distFiles": [
+    {
+      "path": ".DS_Store",
+      "size": 6148,
+      "type": "DS_Store",
+      "lastModified": "2026-07-17T18:48:47.488Z"
+    },
+    {
+      "path": "chunk-47g1sjnh.js",
+      "size": 1010,
+      "type": "js",
+      "lastModified": "2026-07-17T18:48:47.286Z"
+    },
+    {
+      "path": "chunk-wppfzjey.js",
+      "size": 131545,
+      "type": "js",
+      "lastModified": "2026-07-17T18:48:47.286Z"
+    },
+    {
+      "path": "main.css",
+      "size": 103192,
+      "type": "css",
+      "lastModified": "2026-07-17T18:48:47.486Z"
+    },
+    {
+      "path": "chunk-e8j946eh.js",
+      "size": 1309,
+      "type": "js",
+      "lastModified": "2026-07-17T18:48:47.286Z"
+    },
+    {
+      "path": "app.js",
+      "size": 119218,
+      "type": "js",
+      "lastModified": "2026-07-17T18:48:47.286Z"
+    }
+  ],
+  "txtFiles": [
+    {
+      "path": "chunk-e8j946eh.js.txt",
+      "size": 1309,
+      "type": "txt",
+      "lastModified": "2026-07-17T18:48:47.488Z"
+    },
+    {
+      "path": "chunk-47g1sjnh.js.txt",
+      "size": 1010,
+      "type": "txt",
+      "lastModified": "2026-07-17T18:48:47.488Z"
+    },
+    {
+      "path": "app.js.txt",
+      "size": 119218,
+      "type": "txt",
+      "lastModified": "2026-07-17T18:48:47.488Z"
+    },
+    {
+      "path": "chunk-wppfzjey.js.txt",
+      "size": 131545,
+      "type": "txt",
+      "lastModified": "2026-07-17T18:48:47.286Z"
+    }
+  ],
+  "sourceMaps": []
+}
